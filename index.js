@@ -5,7 +5,7 @@ const inquirer = require('inquirer');
 const questions = [
     {
         type: 'input',
-        name: 'userTitle',
+        name: 'title',
         message: 'Enter your project titile.\n',
     },
     {
@@ -35,7 +35,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'Go the extra mile and write tests for your application. Provide commands on how to run them here.\n',
     },
     {
