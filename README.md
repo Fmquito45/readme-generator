@@ -1,8 +1,8 @@
 
-  # toby
+  # r
 
   ## Description
-    toiby
+    r
   
 
   ## Table of Contents
@@ -15,24 +15,24 @@
   -[Questions](#Questions)
 
   ## Installation
-    toby
+    r
 
   ## Usage
-    toby
+    r
   
   ## License
-    MIT License
+    Apache License 2.0
   
 
   ## How to Contribute
-    toby
+    r
 
   ## Tests
-    toby
+    r
 
   ## Questions
   The following link is to my github acount:
-  (https://github.com/toby) 
+  (https://github.com/r) 
 
   And if you have any further questions I can be reached out in the following email:
-  toby
+  r
