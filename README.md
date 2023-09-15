@@ -1,8 +1,8 @@
 
-  # r
+  # q
 
   ## Description
-    r
+    q
   
 
   ## Table of Contents
@@ -15,24 +15,24 @@
   -[Questions](#Questions)
 
   ## Installation
-    r
+    q
 
   ## Usage
-    r
+    q
   
   ## License
-    Apache License 2.0
+    N/A
   
 
   ## How to Contribute
-    r
+    q
 
   ## Tests
-    r
+    q
 
   ## Questions
   The following link is to my github acount:
-  (https://github.com/r) 
+  (https://github.com/q) 
 
   And if you have any further questions I can be reached out in the following email:
-  r
+  q

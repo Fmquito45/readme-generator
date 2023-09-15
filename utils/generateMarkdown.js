@@ -12,10 +12,17 @@ function renderLicenseSection(license) {
   if (license === 'Apache License 2.0'){
     return `## License
     Apache License 2.0`;
-    
-  }
-  //const licenseSection =
-  //return licenseSection
+  } else if (license === 'MIT License'){
+    return `## License
+    MIT License`;
+  } else if (license === 'Mozilla Public License 2.0'){
+    return `## License
+    Mozilla Public License 2.0`;
+  } else if (license === 'N/A'){
+    return `## License
+    N/A`;
+  };
+  
 };
 
 // TODO: Create a function to generate markdown for README
