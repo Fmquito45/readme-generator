@@ -7,12 +7,12 @@
 
   ## Table of Contents
 
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contribute](#Contribute)
-  -[tests](#tests)
-  -[Questions](#Questions)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[License](#license)
+  -[Contribute](#contribute)
+  -[Tests](#tests)
+  -[Questions](#questions)
 
   ## Installation
     q
