@@ -17,7 +17,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'istallation',
+        name: 'install',
         message: 'What are the steps required to install your project? Provide a command to run or a step-by-step description of how to get the development environment running.\n',
     },
     {
@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['Apache License 2.0', 'MIT License', 'Mozilla Public License 2.0'],
+        choices: ['Apache License 2.0', 'MIT License', 'Mozilla Public License 2.0', 'N/A'],
     },
     {
         type: 'input',
