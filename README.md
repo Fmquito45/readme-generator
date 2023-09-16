@@ -1,10 +1,10 @@
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # TOBY
+  # MEOW
 
   ## Description
-    q
+    x
   
 
   ## Table of Contents
@@ -17,24 +17,25 @@
   - [Questions](#questions)
 
   ## Installation
-    q
+    x
 
   ## Usage
-    q
+    x
   
   ## License
-    N/A
+    MIT License
+  https://opensource.org/licenses/MIT
   
 
   ## How to Contribute
-    q
+    x
 
   ## Tests
-    q
+    x
 
   ## Questions
   The following link is to my github acount:
-  (https://github.com/q) 
+  (https://github.com/x) 
 
   And if you have any further questions I can be reached out in the following email:
-  q
+  x

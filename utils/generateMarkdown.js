@@ -9,12 +9,22 @@ function renderLicenseBadge(license) {
     return `[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)`
   } else if (license === 'N/A'){
     return ``
-  }
+  } 
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  if (license === 'Apache License 2.0'){
+    return `https://opensource.org/licenses/Apache-2.0`
+  } else if (license === 'MIT License'){
+    return `https://opensource.org/licenses/MIT`
+  } else if (license === 'Mozilla Public License 2.0'){
+    return `https://opensource.org/licenses/MPL-2.0)`
+  } else if (license === 'N/A'){
+    return ``
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -62,6 +72,7 @@ function generateMarkdown(data) {
     ${data.usage}
   
   ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
   
 
   ## How to Contribute
