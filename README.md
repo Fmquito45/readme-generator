@@ -20,14 +20,14 @@
     To install the dependencies enter on the command line; npm i
 
   ## Usage
-    To use this project you must first install the dependencies. After that you can enter on the command line: node index. And you will be prompted with information to input on the corresponding  questions based on your project to generate a high-quality, professional ReadMe file. If completed correctly you will get a message of success and you will see a new ReadMe file generated with all the inputs placed inside the command line. Everything will be in order and assigned to its proper location. 
+  To use this project you must first install the dependencies. After that you can enter on the command line: node index. And you will be prompted with information to input on the corresponding  questions based on your project to generate a high-quality, professional ReadMe file. If completed correctly you will get a message of success and you will see a new ReadMe file generated with all the inputs placed inside the command line. Everything will be in order and assigned to its proper location. 
 
-    ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.02.22%20AM.png)
-    ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.02.51%20AM.png)
-    ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.03.16%20AM.png)
+  ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.02.22%20AM.png)
+  ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.02.51%20AM.png)
+  ![alt text](./assets/images/Screenshot%202023-09-16%20at%202.03.16%20AM.png)
 
-    Screen Recording link:
-    https://drive.google.com/file/d/1kJ0WEr9b280E5yJOfphClqV_vujWJHBl/view
+  Screen Recording link:
+  https://drive.google.com/file/d/1kJ0WEr9b280E5yJOfphClqV_vujWJHBl/view
 
   
   ## License
